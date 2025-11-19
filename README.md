@@ -132,3 +132,11 @@ search_results.json
     "car": 1
   }
 }
+```
+
+## OUTPUT :
+![alt text](<Screenshot 2025-11-19 085428.png>)
+![alt text](<Screenshot 2025-11-19 085549.png>)
+![alt text](<Screenshot 2025-11-19 085611.png>)
+![alt text](<Screenshot 2025-11-19 085642.png>)
+![alt text](<Screenshot 2025-11-19 085720.png>)
